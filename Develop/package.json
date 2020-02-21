@@ -9,6 +9,7 @@
     "fix": "eslint --fix .",
     "test": "npm run lint && cross-env NODE_ENV=test mocha -u tdd --reporter spec --exit"
   },
+  
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
