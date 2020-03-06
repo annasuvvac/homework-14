@@ -32,5 +32,4 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 
 You are required to submit the following:
 
-* A link to a Google Doc, video, or equivalent that describes the code in `Develop/`. 
-https://docs.google.com/document/d/1Vg-4i9qASAoZuM9cOwibx_6ttb4z5RLrZ45G_l-9nzM/edit?usp=sharing
+
